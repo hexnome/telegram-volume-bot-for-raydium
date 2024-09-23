@@ -1,2 +1,5 @@
-# telegram-volume-bot-for-raydium
-That is telegram volume bot for raydium. deposite sol into multi chain and buy/sell token on raydium, and gather sol
+# Telegram-Volume-bot
+This is Volumn bot on telegram for Raydium.
+# That is missing volume bot part.
+If you need my help, contact here https://t.me/Ee1030109
+
